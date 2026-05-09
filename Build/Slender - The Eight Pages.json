@@ -1,0 +1,13 @@
+{
+"companyName": "Parsec Productions",
+"productName": "Slender",
+"dataUrl": "Slender - The Eight Pages.data.unityweb",
+"asmCodeUrl": "Slender - The Eight Pages.asm.code.unityweb",
+"asmMemoryUrl": "Slender - The Eight Pages.asm.memory.unityweb",
+"asmFrameworkUrl": "Slender - The Eight Pages.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#000000"
+}
